@@ -1,0 +1,6 @@
+1. ¿Por qué n sigue siendo 10 en main?
+- Porque la funcion incrementar solo usa una copia de la variable n, no la modifica a esta sino a su copia.
+2. ¿Cómo se resolvería sin usar punteros?
+Se podria poner a la variable n como una variable global.
+3. Reescribir incrementar para que retorne el valor
+modificado.
